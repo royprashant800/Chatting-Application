@@ -1,7 +1,7 @@
 # Chatting-Application
 
 
-A Node.js real-timechatting application developed using Express.js,Socket.IO Library that enables bi-directional event-based communication between webclients and servers. 
+A Node.js real-time chatting application developed using Express.js,Socket.IO Library that enables bi-directional event-based communication between webclients and servers. 
 
 Frontend is implemented using React.js in which we can share texts as well as images.
 
